@@ -14,3 +14,15 @@ Four principles in order to make the storage useful
 * Simple : add and find notes with no pain
 * Organized : tags and links between notes to create a "web"
 * Sharing : easy read access 
+
+## Rules
+
+* A folder is equal to a tag
+* No folder in a folder
+* One and only one idea by note
+* A note is independant
+* Each note has to be linked to at least two other notes
+* Explanation for each link between notes
+* As much as possible : no copy-pasted information
+* Add references to a note (less than five)
+* Never delete a note, link to a new one instead
