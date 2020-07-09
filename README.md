@@ -24,11 +24,7 @@ Store all the valuable knowledge that I can read, see, or heard in a system of n
 * Add references to a note (less than five)
 * Never delete a note, link to a new one instead
 
-## Representation
-
-![Tags-Nodes-Links System - Made by David B. Clear](https://miro.medium.com/max/700/1*gxyKEtyW6Ms_1v7Sm4N2Rw.png)
-
 ## Acknowledgment
 
-This knowledge repository was inspired by[Chrisman Brown](https://chrisman.github.io/about.html)
+This knowledge repository was inspired by [Chrisman Brown](https://chrisman.github.io/about.html)  
 Check out [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) for other lists by people who also record stuff on GitHub.
