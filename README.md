@@ -26,3 +26,7 @@ Four principles in order to make the storage useful
 * As much as possible : no copy-pasted information
 * Add references to a note (less than five)
 * Never delete a note, link to a new one instead
+
+## Representation
+
+![Tags-Nodes-Links System - Made by David B. Clear](https://miro.medium.com/max/700/1*gxyKEtyW6Ms_1v7Sm4N2Rw.png)
