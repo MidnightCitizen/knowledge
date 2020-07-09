@@ -13,6 +13,8 @@ Side effects bonus :
 
 ## Notes
 
+[Collector's Fallacy](https://github.com/MidnightCitizen/knowledge/blob/master/principles/collector_fallacy.md)
+
 ## References
 
 [On Bookmarks and Note Taking](https://chrisman.github.io/11.html)
