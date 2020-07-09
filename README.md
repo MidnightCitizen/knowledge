@@ -2,7 +2,8 @@ Store all the valuable knowledge that I can read, see, or heard in a system of n
 
 ## Trigger
 
-Reading is a waste of time if the knowledge is not stored, the short-term memory makes us believe that we are more wise after reading a book : it's not the case.
+Reading is a waste of time if the knowledge is not stored, the short-term memory makes us believe that we are more wise after reading a book.
+It's not the case.
 
 ## Principles 
 
