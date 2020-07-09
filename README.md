@@ -26,5 +26,5 @@ Store all the valuable knowledge that I can read, see, or heard in a system of n
 
 ## Acknowledgment
 
-This knowledge repository was inspired by [Chrisman Brown](https://chrisman.github.io/about.html)  
+This knowledge repository was inspired by [Chrisman Brown](https://chrisman.github.io/11.html)  
 Check out [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) for other lists by people who also record stuff on GitHub.
