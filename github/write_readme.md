@@ -5,6 +5,5 @@ In addition to adding professionalism, it helps to share a project or even for y
 
 ## References
 
-* [Mastering MARKDOWN](https://guides.github.com/features/mastering-markdown/)
 * [How to Write a good README](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 * [A Beginners Guide to writing a Kickass README](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)

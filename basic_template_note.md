@@ -14,6 +14,8 @@ Aliquam sodales hendrerit magna non bibendum :
 
 ## Notes
 
+[awesomeNote](awesomeLink) -> AwesomeExplanation
+
 ## References
 
 [Lorem Ipsum](https://fr.lipsum.com/)
