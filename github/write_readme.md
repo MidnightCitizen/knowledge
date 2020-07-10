@@ -1,7 +1,10 @@
 A project should always be documented and follow a basic structure
+
 In addition to adding professionalism, it helps to share a project or even for yourself when you get into something and you can't remember how to run/deploy/test
 
 ## Notes
+
+[Markdown](https://github.com/MidnightCitizen/knowledge/blob/master/languages/markdown.md) -> The language used to create README
 
 ## References
 
