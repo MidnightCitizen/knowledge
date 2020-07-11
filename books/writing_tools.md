@@ -32,7 +32,7 @@ Each tool need times to get understand and used with intelligence. We develop a 
 
 ## Summary
 
-Fifty-five tools, from simple one (*fear not the long sentence*) to more elaborate tool (*build your work around a key question*) ; like the author early on, **each item is a tool, not a rule**. You don't have to follow blindly each one in order to achieve a best-seller. 
+Fifty-five tools, from simple one (*fear not the long sentence*) to more elaborate tool (*build your work around a key question*) ; like the author said early on, **each item is a tool, not a rule**. You don't have to follow blindly each one in order to achieve a best-seller. 
 
 
 Writing is an organic activity but there are some mistakes that you should avoid, some concepts that you need to have in mind. Otherwise, your style will be boring, or your story will lack of coherence. Punctuation matters, blueprints and habits are powerful tools to design and create ideas.
