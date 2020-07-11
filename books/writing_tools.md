@@ -12,7 +12,7 @@ Writing Tools by Roy Peter Clark
 ## Quotes
 
 > ❝ More muscular than the comma, the semicolon is most useful to divide big chunks of information. ❞    
-> ❝ But the dash has two brilliant uses: a par of dashes can set off an idea contained within a sentence, and a dash near the end can deliver a punch line. ❞    
+> ❝ But the dash has two brilliant uses: a pair of dashes can set off an idea contained within a sentence, and a dash near the end can deliver a punch line. ❞    
 > ❝ All of us possess a reading vocabulary as big as a lake but draw from a writing vocabulay as small as a pond.❞    
 > ❝ If it sounds like writing, writes hard-boiled novelist Elmore Leonard, I rewrite. ❞   
 > ❝ ...she helped her writers created a cast of characters for their stories by asking the question *Who has something at stake here?*  ❞ 
