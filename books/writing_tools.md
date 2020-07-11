@@ -23,7 +23,7 @@ Writing Tools by Roy Peter Clark
 
 ## Remarks
 
-Some tools are really good, the one called *Cut big, then small* show with an example how far the original draft can be from the final result. 
+Some tools are really good, the one called *Cut big, then small* shows with an example how far the original draft can be from the final result. 
 
 *Get the name of the dog* is also a key-concept that good story need to have solid details.
 
