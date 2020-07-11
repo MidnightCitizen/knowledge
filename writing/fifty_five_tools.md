@@ -11,7 +11,7 @@
 2. Take interest in all crafts that support your work.  
 *To do your best, help others do their best.*
 
-3. Read for both form and content.
+3. Read for both form and content.   
 *Examine the machinery beneath the text.*
 
 4. Recruit your own support group.  
