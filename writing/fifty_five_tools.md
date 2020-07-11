@@ -1,6 +1,8 @@
-# Source
+## Notes
+[Writing Tools](https://github.com/MidnightCitizen/knowledge/blob/master/books/writing_tools.md)
 
-[Writing Tools]()
+## References
+[Blog Post](https://fastertomaster.com/writing-tools-by-roy-peter-clark/)
 
 # GENERAL
 1. Draft a mission statement for your work.  
