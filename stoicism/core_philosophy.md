@@ -16,8 +16,7 @@ Each concept is a key to open the door of the philosophy of stoicism, and being 
 
 
 ## Notes
-
-[Stoicism](awesomeLink) -> AwesomeExplanation  
+  
 [Eudaimonia](awesomeLink) -> AwesomeExplanation        
 
 ## References
