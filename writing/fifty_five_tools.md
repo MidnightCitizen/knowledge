@@ -1,8 +1,8 @@
-## Notes
-[Writing Tools](https://github.com/MidnightCitizen/knowledge/blob/master/books/writing_tools.md)
+## Disclaimer
 
-## References
-[Blog Post](https://fastertomaster.com/writing-tools-by-roy-peter-clark/)
+The following tools are the fifty-five tools described in the book [Writing Tools](https://github.com/MidnightCitizen/knowledge/blob/master/books/writing_tools.md) by **Roy Peter Clark**
+
+
 
 # GENERAL
 1. Draft a mission statement for your work.  
@@ -194,3 +194,9 @@
 
 5. Take it easy on the -ings.   
 *Prefer the simple present or past.*
+
+## Notes
+[Writing Tools](https://github.com/MidnightCitizen/knowledge/blob/master/books/writing_tools.md)
+
+## References
+[Blog Post](https://fastertomaster.com/writing-tools-by-roy-peter-clark/)
