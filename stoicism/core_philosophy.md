@@ -16,7 +16,8 @@ Each concept is a key to open the door of the philosophy of stoicism, and being 
 
 
 ## Notes
-  
+
+[Stoicism](https://github.com/MidnightCitizen/knowledge/blob/master/stoicism/stoicism.md) -> Virtues, quotes and ways of practice stoicism   
 [Eudaimonia](https://github.com/MidnightCitizen/knowledge/blob/master/stoicism/eudaimonia.md) -> The main foundation of stoicism, the good spirit that lived inside you        
 
 ## References
