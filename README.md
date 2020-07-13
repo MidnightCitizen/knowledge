@@ -1,26 +1,26 @@
-Store all the valuable knowledge that I can read, see, or heard in a system of notes-tags-links.
+Store all the valuable knowledge that I can read, see or heard in a system of notes-tags-links.
 
 ## Trigger
 
-Reading is a waste of time if the knowledge is not stored, the short-term memory makes us believe that we are more wise after reading a book.
+Reading is a waste of time if the knowledge is not stored, the short-term memory makes us believe that we are wiser after reading a book.
 It's not the case.
 
 ## Principles 
 
-* Centralized : all-in-one place
-* Simple : add and find notes with no pain
-* Organized : tags and links between notes to create a "web"
-* Sharing : easy read access 
+* Centralized: all-in-one place
+* Simple: add and find notes with no pain
+* Organized: tags and links between notes to create a "web"
+* Sharing: easy read access 
 
 ## Rules
 
 * A folder is equal to a tag
 * No folder in a folder
 * One and only one idea by note
-* A note is independant
+* A note is independent
 * Each note has to be linked to at least two other notes
 * Explanation for each link between notes
-* As much as possible : no copy-pasted information
+* As much as possible: no copy-pasted information
 * Add references to a note (less than five)
 * Never delete a note, link to a new one instead
 
