@@ -13,8 +13,6 @@ You want: miles
         / 0.0017893979
 ```
 
-## Notes
-
 ## References
 
 [500 Miles](https://web.mit.edu/jemorris/humor/500-miles)
