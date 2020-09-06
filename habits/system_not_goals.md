@@ -12,7 +12,7 @@ Don't dream, act.
 
 ## Notes
 
-[[habits]]
+[[simplify]]
 
 ## References
 
