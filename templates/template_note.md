@@ -19,7 +19,7 @@ code
 
 ## Notes
 
-[awesomeNote](awesomeLink) -> AwesomeExplanation
+[awesomeNote](memory) -> AwesomeExplanation
 
 ## References
 

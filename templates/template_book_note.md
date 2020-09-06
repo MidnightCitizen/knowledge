@@ -24,7 +24,7 @@ Aliquam vel lectus nulla. Donec feugiat auctor lorem, ut consequat eros gravida 
 
 ## Notes
 
-[awesomeNote](awesomeLink) -> AwesomeExplanation
+[awesomeNote](memory) -> AwesomeExplanation
 
 ## References
 

@@ -4,7 +4,6 @@ Don't engage in any interactions with someone by just saying 'Hi'. Or 'hello'. G
 
 ## Notes
 
-[awesomeNote](awesomeLink) -> AwesomeExplanation
 
 ## References
 

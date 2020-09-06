@@ -1,6 +1,6 @@
 # Topic / Title
 
-Writing Tools by Roy Peter Clark
+Writing Tools by Roy Peter Clark 
 
 ## Keywords / Questions
 
@@ -39,7 +39,7 @@ Writing is an organic activity but there are some mistakes that you should avoid
 
 ## Notes
 
-[Tools](https://github.com/MidnightCitizen/knowledge/blob/master/writing/fifty_five_tools.md) -> Fifty-five tools, more or less simple to apply, but useful to know
+[[fifty_five_writing_tools]](https://github.com/MidnightCitizen/knowledge/blob/master/writing/fifty_five_tools.md) -> Fifty-five tools, more or less simple to apply, but useful to know
 
 ## References
 

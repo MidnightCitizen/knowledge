@@ -15,7 +15,7 @@ This repository is one implementation but the same process can be used with pape
 
 ## Notes
 
-[Collector's Fallacy](https://github.com/MidnightCitizen/knowledge/blob/master/principles/collector_fallacy.md) -> Dozen of bookmarks or books that you store don't give you any value, only the illusion of reachable knowledge
+[[collector_fallacy]] -> Dozen of bookmarks or books that you store don't give you any value, only the illusion of reachable knowledge
 
 ## References 
 

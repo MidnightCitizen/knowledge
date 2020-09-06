@@ -11,8 +11,8 @@ This ideal can never be fully reached of course but the goal is not to became yo
 
 ## Notes
 
-[Stoicism](https://github.com/MidnightCitizen/knowledge/blob/master/stoicism/stoicism.md) -> Virtues, quotes and ways of practice stoicism  
-[Stoicism - Core Philosophy](https://github.com/MidnightCitizen/knowledge/blob/master/stoicism/core_philosophy.md) -> The eudaimonia is the main goal behind the philosophy of stoicism
+[[stoicism]](https://github.com/MidnightCitizen/knowledge/blob/master/stoicism/stoicism.md) -> Virtues, quotes and ways of practice stoicism  
+[[principles_of_stoicism]](https://github.com/MidnightCitizen/knowledge/blob/master/stoicism/core_philosophy.md) -> The eudaimonia is the main goal behind the philosophy of stoicism
 
 ## References
 

@@ -1,13 +1,24 @@
-> Markdown is a lightweight markup language with plain-text-formatting syntax   
-> — [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+Markdown allows to write simple things, useful for notes but also for README of projects, even for blog posts. 
 
-Markdown allows to write simple things, useful for notes but also for README of projets, even for blog posts. 
 
-The syntax is not difficult to master, doesn't support any color and doesn't intend to because it's goal is not to replace HTML, and it need to stay simple to be used by anyone.
+# Examples
+
+**Bold text** with ** ** 
+
+
+*Italic text* with * *
+
+
+List with * before something
+* Example
+* Example
+
+Quote with >
+> Lorem Ipsum
 
 ## Notes
 
-[Write README](https://github.com/MidnightCitizen/knowledge/blob/master/github/write_readme.md) -> In github/gitlab project, README is written with the help of markdown
+[[write_readme]] -> in projects, the readme is written with markdown
 
 ## References
 

@@ -25,10 +25,3 @@ Add to tscionfig.json, in the end, before the last bracket :
 ]
 `
 
-## Notes
-
-[awesomeNote](awesomeLink) -> AwesomeExplanation
-
-## References
-
-[Lorem Ipsum](https://fr.lipsum.com/)

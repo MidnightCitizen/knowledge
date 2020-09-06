@@ -6,7 +6,6 @@ Few simple rules :
 
 ## Notes
 
-[awesomeNote](awesomeLink) -> AwesomeExplanation
 
 ## References
 

@@ -196,7 +196,7 @@ The following tools are the fifty-five tools described in the book [Writing Tool
 *Prefer the simple present or past.*
 
 ## Notes
-[Writing Tools](https://github.com/MidnightCitizen/knowledge/blob/master/books/writing_tools.md)
+[review_writing_tools](https://github.com/MidnightCitizen/knowledge/blob/master/books/writing_tools.md)
 
 ## References
 [Blog Post](https://fastertomaster.com/writing-tools-by-roy-peter-clark/)

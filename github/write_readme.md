@@ -4,7 +4,7 @@ In addition to adding professionalism, it helps to share a project or even for y
 
 ## Notes
 
-[Markdown](https://github.com/MidnightCitizen/knowledge/blob/master/languages/markdown.md) -> The language used to create README
+[[markdown]]
 
 ## References
 

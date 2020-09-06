@@ -17,7 +17,7 @@ Scales Vertically | Horizontally Scalable
 
 ## Notes
 
-[awesomeNote](awesomeLink) -> AwesomeExplanation
+
 
 ## References
 

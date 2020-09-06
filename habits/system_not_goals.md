@@ -12,7 +12,7 @@ Don't dream, act.
 
 ## Notes
 
-[awesomeNote](awesomeLink) -> AwesomeExplanation
+[[habits]]
 
 ## References
 

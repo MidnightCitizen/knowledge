@@ -33,8 +33,8 @@
 
 ## Notes
 
-[Stoicism - Core Philosophy](https://github.com/MidnightCitizen/knowledge/blob/master/stoicism/core_philosophy.md) -> The focus of this philosophy and why it is still useful today
-[Eudaimonia](https://github.com/MidnightCitizen/knowledge/blob/master/stoicism/eudaimonia.md) -> The best version of yourself, in stoicism
+[[principles_of_stoicism]](https://github.com/MidnightCitizen/knowledge/blob/master/stoicism/core_philosophy.md) -> The focus of this philosophy and why it is still useful today
+[[eudaimonia]](https://github.com/MidnightCitizen/knowledge/blob/master/stoicism/eudaimonia.md) -> The best version of yourself, in stoicism
 
 ## References
 
