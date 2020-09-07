@@ -1,4 +1,6 @@
-Store all the valuable knowledge that I can read, see or heard in a system of notes-tags-links.
+## Definition
+
+Store all the valuable knowledge that I can read, see or heard in a system of notes-tags-links. Not only to remember it, but to think *better*.
 
 ## Trigger
 
@@ -24,7 +26,16 @@ It's not the case.
 * Add references to a note (less than five)
 * Never delete a note, link to a new one instead
 
+## Notes
+
+[[zettelkasten]] && [[digital_gardens]] -> create a second memory, store and connect ideas
+
+
 ## Acknowledgment
 
 This knowledge repository was inspired by [Chrisman Brown](https://chrisman.github.io/11.html)  
 Check out [meta-knowledge](https://github.com/RichardLitt/meta-knowledge) for other lists by people who also record stuff on GitHub.
+
+## References
+
+[nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge)

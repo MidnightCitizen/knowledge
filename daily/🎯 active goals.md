@@ -1,10 +1,16 @@
 Due this month
 
-- This week / next week
 
-    - ex. [[⛳️ - 🗙 Complete my Obsidian article]]
+- This week / next week ⛳️
+	* Complete the [[circadian_rythm]] note
+	* Complete the [[luck]] note
+	* Complete the [[procrastination]] note
+	* Study [espanso documentation](https://espanso.org/docs/) 
+
+- Ongoing 🚧
 
 
-Ongoing
+- Over 🔚
+	* Complete the [[spaced_repetition]] note
+	* Add money to bank accounts of my family
 
-- ex. [[⛳️ - 🗙 Complete the Version 1 Beta for Project Iota]]
