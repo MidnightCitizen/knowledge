@@ -4,9 +4,6 @@ Few simple rules :
 * Add links for references
 * Structure long messages with titles 
 
-## Notes
-
-
 ## References
 
 [How to write better emails](https://iridakos.com/programming/2019/06/26/composing-better-emails)

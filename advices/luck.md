@@ -1,1 +1,0 @@
-[How to Create Luck](https://dev.to/swyx/how-to-create-luck-2jl1)

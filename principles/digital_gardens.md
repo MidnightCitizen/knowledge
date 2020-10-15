@@ -4,7 +4,7 @@ It's the same concept behing the method zettelkasten : create a network of ideas
 
 ## Notes
 
-[[zettelkasten]] -> A new way to write and store informations
+[[zettelkasten]] -> a new way to write and store information
 
 ## References
 
