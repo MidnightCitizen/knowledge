@@ -1,7 +1,6 @@
 > ❝ Man should strive to simplify his life as ardently as he strives to complicate it. ❞
 > — Henry Bergson
 
-
 Without order, only chaos. Burnout happened because the energy is used to complicate things instead of working to *simplify* your life. 
 
 **Each day should be considered as the last** and be used fully, not been wasted for useless pleasures. 
@@ -19,11 +18,11 @@ In one year, five years, ten years: the choice that you made today will have a h
 
 
 > Don't take life too seriously. After all none of us are getting out alive anyway.
-> —Jill Shalvis
+> — Jill Shalvis
 
 ## Notes
 
-[[system_not_goals]]
+[[system_not_goals]] -> you should focus on the system/process, not the ending, hence you should simplify your life
 
 ## References
 

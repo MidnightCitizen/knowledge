@@ -11,7 +11,7 @@ There is a degree of **self-deception**, a part of the brain focus on quick-plea
 * Break a task to make small bricks
 * Starting is difficult, doing is not
 * Aim for slow, steady progress
-* 
+
 ## References
 [Procrastination](https://www.psychologytoday.com/us/basics/procrastination)
 [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)
