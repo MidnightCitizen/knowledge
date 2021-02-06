@@ -1,6 +1,6 @@
 **Procrastination is a self-defeating behavior pattern.** 
 
-Lack of structure or motivation, low self-confidence,and anxiety can explain the habit of avoiding unpleasant tasks. 
+Lack of structure or motivation, low self-confidence, and anxiety can explain the habit of avoiding unpleasant tasks. 
 
 There is a degree of **self-deception**, a part of the brain focus on quick-pleasure-gain instead of rational decisions : the main enemy to deal with can be called **the Instant Gratification Monkey**
 
