@@ -1,1 +1,0 @@
-https://blog.oshogunle.com/popular-design-patterns-revisited-in-javascript-ckepwexml02tskps10r090iz7
