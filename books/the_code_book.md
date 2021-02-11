@@ -28,9 +28,6 @@ The Code Book by *Simon Singh*
 
 A dive into the history of cryptography, of the "war" between those who encrypt and those who decrypt, with the different techniques and tools (Caesar's shift, frequency analysis, Vipher, Enigma, RSA, ..) used during centuries.
 
-## Notes 
-[[caesar_shift]]-> One of the first encryption method in the history
-
 ## References
 
 [The Code Book PDF (old version)](https://readandlaugh.files.wordpress.com/2014/12/thecodebook.pdf)
