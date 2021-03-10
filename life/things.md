@@ -2,7 +2,7 @@
 
 ## Tech
 ### Computer
-- [AMD Ryzen 3600](https://www.amazon.fr/gp/product/B07SXMZLPK/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+- [AMD Ryzen 3700](https://www.amazon.fr/gp/product/B07SXMZLPK/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - [Gigabyte x570 AORUS Elite](https://www.amazon.fr/gp/product/B07TSKR7ZX/ref=ppx_yo_dt_b_asin_title_o03_s02?ie=UTF8&psc=1)
 - [Palit GeForce RTX 3080](https://www.amazon.fr/gp/product/B08JCVWTQY/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
 - [Samsung SSD Interne 970 EVO](https://www.amazon.fr/gp/product/B07CGGP7SV/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
