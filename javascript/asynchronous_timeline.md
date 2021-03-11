@@ -15,8 +15,7 @@ time.sleep(2)
 print('Timeout')
 print('End')
 ```
-
-<img src="../images/asynchronous_example_1.gif" width="600"/>
+![Asynchronous Example 1](/images/asynchronous_example_1.gif)
 
 Not in an asynchronous world, where two timelines coexist : 
 
@@ -26,7 +25,7 @@ setTimeout(() => console.log('Timeout'), 2000)
 console.log('End')
 ```
 
-<img src="../images/asynchronous_example_2.gif" width="600"/>
+![Asynchronous Example 1](/images/asynchronous_example_2.gif)
 
 So, in a more concrete example, if you want to read a file and show the content
 ```js
@@ -41,10 +40,11 @@ fs.readFile('./Index.html', function read(err, data) {
 console.log(content);
 ```
 
-<img src="../images/asynchronous_example_3.gif" width="600"/>
+ ![Asynchronous Example 1](/images/asynchronous_example_3.gif)
 
 *Game over*. You got a **undefined** as a result of your console log. 
 
 ## References
 
 [Two dimensional timeline — A way to think about asynchronous JavaScript](https://medium.com/javascript-in-plain-english/two-dimensional-timeline-a-way-to-think-about-asynchronous-javascript-bb5e8d4ffd2e)
+[Beginner's guide to Javascript's Async/Await](https://saiteja0413.hashnode.dev/beginners-guide-to-javascripts-asyncawait)
