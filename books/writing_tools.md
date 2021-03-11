@@ -39,6 +39,7 @@ Writing is an organic activity but there are some mistakes that you should avoid
 
 ## Notes
 
+[[book]]
 [[fifty_five_writing_tools]] -> Fifty-five tools, more or less simple to apply, but useful to know
 
 ## References

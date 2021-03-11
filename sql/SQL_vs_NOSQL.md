@@ -14,10 +14,9 @@ Requires a Schema | More Flexible to Changes
 Great with Relationships | Not Great with Complex Relationships
 Scales Vertically | Horizontally Scalable
 
-
 ## Notes
 
-
+[[sql]]
 
 ## References
 

@@ -34,3 +34,8 @@ SELECT CITY, LENGTH(CITY) FROM (
 )
 WHERE ROWNUM = 1;
 ```
+
+
+## Notes
+
+[[sql]]

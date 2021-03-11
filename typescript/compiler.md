@@ -25,3 +25,6 @@ Add to tscionfig.json, in the end, before the last bracket :
 ]
 `
 
+## Notes
+
+[[typescript]]

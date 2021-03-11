@@ -197,3 +197,8 @@ Pull requests are welcome. Enjoy!
    `column3` `datatype`, <br />
    `column4` `datatype`, <br />
    `);`
+
+
+## Notes
+
+[[sql]]

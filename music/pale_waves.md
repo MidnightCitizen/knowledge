@@ -32,7 +32,7 @@
 
 * Sound a lot like Avril Lavigne / Katy Perry
 * Remind me of band in the eighties
-* Great cover song of Last Christmas
+* Great cover song of *Last Christmas*
 
 ## References
 

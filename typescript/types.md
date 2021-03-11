@@ -26,6 +26,9 @@ TypeScript work with types like **string** or **number**, all lowercase
 ## Type Inference
 When you declare a variable, or have a function with two specific types, you don't need to set a specific type : TypeScript understands already which type will be used or returned
 
+## Notes
+
+[[typescript]]
 
 ## References
 

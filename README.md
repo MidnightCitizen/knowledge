@@ -5,14 +5,14 @@ Store all the valuable knowledge that I can read, see or heard in a system of no
 ## Trigger
 
 Reading is a waste of time if the knowledge is not stored, the short-term memory makes us believe that we are wiser after reading a book.
-It's not the case.
+It's not the case. This *knowledge* is designed to be working with the software [[obsidian]].
 
 ## Principles 
 
 * Centralized: all-in-one place
 * Simple: add and find notes with no pain
 * Organized: tags and links between notes to create a "web"
-* Sharing: easy read access 
+* Sharing: easy read access with github link
 
 ## Rules
 
@@ -20,16 +20,13 @@ It's not the case.
 * No folder in a folder
 * One and only one idea by note
 * A note is independent
-* Each note has to be linked to at least two other notes
-* Explanation for each link between notes
-* As much as possible: no copy-pasted information
+* Each note has to be linked to at least one note
+* As much as possible: **no copy-pasted information**
 * Add references to a note (less than five)
-* Never delete a note, link to a new one instead
 
 ## Notes
 
-[[zettelkasten]] && [[digital_gardens]] -> create a second memory, store and connect ideas
-
+[[zettelkasten]] && [[digital_gardens]] -> concepts behind this repository to "*create*" a second memory, store and connect ideas
 
 ## Acknowledgment
 
