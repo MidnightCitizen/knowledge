@@ -22,3 +22,4 @@ In 1945, *George Pólya* created a simple method in a book called **How to Solve
 	
 ## References
 [How to Solve Coding Problems with a Simple Four Step Method](https://www.freecodecamp.org/news/how-to-solve-coding-problems/)
+[Podcast 347: Information foraging – the tactics great developers use to find solutions](https://stackoverflow.blog/2021/06/15/podcast-347-information-foraging-the-tactics-great-developers-use-to-find-solutions/)
