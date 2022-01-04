@@ -1,4 +1,3 @@
-
 Three maxims were written on a column of the Temple of Apollo at Delphi
 
 *Γνῶθι σεαυτόν* — Know thyself

@@ -3,7 +3,7 @@
 
 A visualization may prove handy to explain stoicism.
 
-The core concept is **eudaimonia** that can be summarized to live with prosperty, and being close as much close possible to our inner daimon (the best version of yourself). 
+The core concept is **eudaimonia** that can be summarised to live with prosperity, and being close as much close possible to our inner daimon (the best version of yourself). 
 
 
 **Live with areté** is the first corner of the triangle, it means to live with virtue, to be excellent in every occasion : you have to be at your best as much as possible to become a better human being.  

@@ -1,26 +1,20 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet est neque. Nullam nec dolor turpis. Morbi sit amet consectetur arcu, in rhoncus libero. Sed a fermentum dolor.
+#### Definition
 
->❝ Praesent blandit facilisis urna, in sollicitudin magna posuere a. In hac habitasse platea dictumst. Aenean ornare ipsum in facilisis mattis. Vestibulum placerat sapien et ante elementum, et condimentum dolor elementum. ❞ 
-> — Cicéron, 45 AC   
+Programming is the act of programming a computer to perform a task, usually to solve a problem or to perform a specific calculation
 
-Etiam hendrerit non dui sagittis bibendum. 
+>❝ Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. ❞ 
+> — John Woods
 
-
-Aliquam sodales hendrerit magna non bibendum :
-* Nam
-* Aliquam
-* Iaculis
-* Vulputate
+#### Example 
 
 ```js
-code
+// generating a random number
+const a = Math.random();
+console.log(a);
 ```
-
-
-## Notes
-
-[awesomeNote](memory) -> AwesomeExplanation
 
 ## References
 
 [The Essence of Programming](https://www.gingerbill.org/article/2021/02/01/the-essence-of-programming/)
+[Resources Coding Practice](https://github.com/Olshansk/interview#coding-practice)
+[Programming Methodologies](https://www.tutorialspoint.com/programming_methodologies/programming_methodologies_quick_guide.htm)

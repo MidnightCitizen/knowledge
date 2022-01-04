@@ -26,7 +26,7 @@ It's not the case. This *knowledge* is designed to be working with the software 
 
 ## Notes
 
-[[zettelkasten]] && [[digital_gardens]] -> concepts behind this repository to "*create*" a second memory, store and connect ideas
+[[zettelkasten]] && [[digital gardens]] -> concepts behind this repository to "*create*" a second memory, store and connect ideas
 
 ## Acknowledgment
 

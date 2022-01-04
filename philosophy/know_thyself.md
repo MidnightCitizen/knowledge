@@ -1,6 +1,3 @@
-
-
-
 ## Notes
 [[delphic_maxims]] -> one of the three maxims in the Temple of Apollo is know thyself
 

@@ -15,7 +15,7 @@ This repository is one implementation but the same process can be used with pape
 
 ## Notes
 
-[[collector_fallacy]] -> Dozen of bookmarks or books that you store don't give you any value, only the illusion of reachable knowledge
+[[collector fallacy]] -> Dozen of bookmarks or books that you store don't give you any value, only the illusion of reachable knowledge
 
 ## References 
 

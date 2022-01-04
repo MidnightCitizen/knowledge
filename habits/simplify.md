@@ -22,7 +22,7 @@ In one year, five years, ten years: the choice that you made today will have a h
 
 ## Notes
 
-[[system_not_goals]] -> you should focus on the system/process, not the ending, hence you should simplify your life
+[[system not goals]] -> you should focus on the system/process, not the ending, hence you should simplify your life
 
 ## References
 
